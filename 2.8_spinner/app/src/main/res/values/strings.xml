@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpinnerInKotlin</string>
+    <string name="selected_item">Selected item:</string>
+</resources>
